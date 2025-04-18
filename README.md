@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @qayamuddink
-- 👀 I’m interested in TECHNOLOGY
+
 - 🌱 I’m currently learning FULL STACK DEVELOPMENT
 
 <!---
